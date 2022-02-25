@@ -5,7 +5,7 @@ void f1() {}
 
 void c1() {}
 
-void m2() {}
+void c2() {}
 
 void m3() {}
 
