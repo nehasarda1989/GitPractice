@@ -8,4 +8,6 @@ public static void main(String[] args) {
 
 	void method1(){}
 
+	void b2() {
+	}
 }
