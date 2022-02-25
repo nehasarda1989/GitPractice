@@ -11,4 +11,6 @@ public class Test1 {
 	void b2() {}
 	void softReset() {}
 
+	void changeForAllBranches() {}
+
 }
