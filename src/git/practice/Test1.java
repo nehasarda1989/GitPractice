@@ -8,5 +8,9 @@ public class Test1 {
 
 	void method1(){}
 	void b1() {}
+<<<<<<< Updated upstream
 	void b2() {}
+=======
+	void changeForAllBranches() {}
+>>>>>>> Stashed changes
 }
