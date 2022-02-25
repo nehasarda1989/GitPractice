@@ -5,4 +5,6 @@ void f1() {}
 
 void m1() {}
 
+void m2() {}
+
 }
