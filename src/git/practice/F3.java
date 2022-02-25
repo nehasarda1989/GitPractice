@@ -7,6 +7,6 @@ void c1() {}
 
 void c2() {}
 
-void m3() {}
+void c3() {}
 
 }
