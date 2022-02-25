@@ -8,4 +8,5 @@ public class Test1 {
 
 	void method1(){}
 	void b1() {}
+	void changeForAllBranches() {}
 }
