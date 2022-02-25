@@ -8,4 +8,6 @@ public class Test3 {
 	void method1() {
 	}
 
+	void b2() {
+	}
 }
